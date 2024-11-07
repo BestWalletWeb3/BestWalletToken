@@ -1,0 +1,1 @@
+# BestWallet Token contract
